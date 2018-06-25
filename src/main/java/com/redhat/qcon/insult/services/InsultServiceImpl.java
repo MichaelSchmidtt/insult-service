@@ -37,8 +37,6 @@ public class InsultServiceImpl implements InsultService {
     JsonObject config;
 
 
-
-
     private final String nounHost;
     private final int nounPort;
     private final String adjHost;
