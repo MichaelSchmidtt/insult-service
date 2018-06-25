@@ -20,6 +20,8 @@ public interface InsultService {
         return new InsultServiceVertxEBProxy(vertx, address);
     }
 
+
+
     // Business logic methods here!!
 
     /**
