@@ -29,7 +29,6 @@ public class InsultServiceImpl implements InsultService {
     private static final int HTTP_CLIENT_TIMEOUT = 1000;
     private static final int CIRCUIT_TIMEOUT = 500;
     private static final int RESET_TIMEOUT = 15000;
-
     Vertx vertx;
     WebClient webClient;
     KafkaService kafka;
