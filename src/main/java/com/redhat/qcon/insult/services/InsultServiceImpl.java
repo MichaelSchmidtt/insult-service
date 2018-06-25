@@ -38,6 +38,7 @@ public class InsultServiceImpl implements InsultService {
 
 
 
+
     private final String nounHost;
     private final int nounPort;
     private final String adjHost;
